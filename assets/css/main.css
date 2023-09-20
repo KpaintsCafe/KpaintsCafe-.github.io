@@ -193,6 +193,11 @@
 	h6 {
 		font-size: 0.7em;
 	}
+@media screen and (max-width: 736px) {
+		.georgia {
+			text-align: center;
+		} 
+	}
 
 	@media screen and (max-width: 736px) {
 
